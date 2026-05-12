@@ -13,6 +13,7 @@ Materiales Necesarios
 Cables tipo "Dupont"
 
 Diagrama de Conexión
+
 Para mantener el código simple, conectaremos los segmentos (A-G) a los pines digitales del 2 al 8 en orden alfabético.
 
 a -> pin 2
@@ -32,6 +33,7 @@ g -> pin 8
 GND -> GND (con resistencia)
 
 Instrucciones de Ensamblaje
+
 Inserta el display en la protoboard.
 
 Identifica los pines del display (suelen ser 5 arriba y 5 abajo). El pin central de ambos lados suele ser el común (GND en este caso).
@@ -43,8 +45,8 @@ Conecta cada uno de los pines correspondientes a los segmentos a, b, c, d, e, f,
 Código del Proyecto (C++)
 Este código utiliza una matriz bidimensional para definir qué segmentos deben encenderse para formar cada número.
 
-// Práctica: Contador 0-9 con Display de 7 Segmentos
-// Autor: Leonardo Payan Lara
+//Contador 0-9 con Display de 7 Segmentos
+//Leonardo Payan Lara
 
 int a = 2;
 int b = 3;
