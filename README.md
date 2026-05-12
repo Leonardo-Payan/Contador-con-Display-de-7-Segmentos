@@ -165,3 +165,9 @@ void loop() {
   digitalWrite(g, HIGH);
   delay(1000);
 }
+
+https://github.com/user-attachments/assets/a6aef692-0151-47dc-ae68-68ff2eb0cb1e
+
+
+
+
