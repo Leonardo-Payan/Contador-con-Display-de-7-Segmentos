@@ -166,8 +166,5 @@ void loop() {
   delay(1000);
 }
 
-https://github.com/user-attachments/assets/a6aef692-0151-47dc-ae68-68ff2eb0cb1e
-
-
-
+https://github.com/user-attachments/assets/bdd609fb-9462-4355-bb3a-cda1f577afb1
 
